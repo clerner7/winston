@@ -1,6 +1,6 @@
 # Aperture
 
-Aperture template for Jekyll. Browse through a [live demo](https://cosmic-hippopotamus.cloudvent.net/).
+Aperture template for Jekyll. Browse through a [live demo](https://redhcp.me/elnoi/).
 
 ![Aperture template screenshot](images/_screenshot.png)
 
@@ -13,11 +13,11 @@ Learn Jekyll with step-by-step tutorials and videos at [CloudCannon Academy](htt
 
 ## Features
 
-* Photo grid
-* Thumbnails
-* Captions
-* About page
-* Contact page
+- Photo grid
+- Thumbnails
+- Captions
+- About page
+- Contact page
 
 ## Setup
 
@@ -30,15 +30,15 @@ Aperture was built with [Jekyll](http://jekyllrb.com/) version 3.7.2, but should
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
-~~~bash
+```bash
 $ bundle install
-~~~
+```
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-~~~bash
+```bash
 $ bundle exec jekyll serve
-~~~
+```
 
 ## Editing
 
@@ -46,9 +46,9 @@ Aperture is already optimised for adding, updating and removing photos and navig
 
 ### Navigation
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
+- Exposed as a data file to give clients better access.
+- Set in the _Data_ / _Navigation_ section.
 
 ### Photo Gallery
 
-* Populated using front matter array in `index.html`.
+- Populated using front matter array in `index.html`.
