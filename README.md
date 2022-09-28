@@ -1,6 +1,6 @@
 # Aperture
 
-Aperture template for Jekyll. Browse through a [live demo](https://redhcp.me/elnoi/).
+Aperture template for Jekyll. Browse through a [live demo](https://.com).
 
 Aperture was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 Find more templates and themes at [CloudCannon Academy](https://learn.cloudcannon.com/jekyll-templates/).
